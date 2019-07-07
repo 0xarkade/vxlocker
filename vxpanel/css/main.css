@@ -1,0 +1,44 @@
+.red 
+{
+	color: red;
+}
+
+.white
+{
+	color:white;
+}
+
+.green
+{
+	color:green;
+}
+
+
+.h2top
+{
+	text-align: center;
+}
+
+.jblack
+{
+	background-color: black;
+}
+
+.bgimage 
+{
+	background-image: url('../img/drugs_bg.jpg');
+	background-repeat: no-repeat ; 
+	background-position: bottom center ;
+	background-size: cover ;
+}
+
+
+
+.footer
+{
+	background-color: #001a33;
+	color: #fff;
+	padding-top: 15px;
+	font-size: 12px;
+    margin-top: 150px;
+}
