@@ -2,7 +2,7 @@
 Vxlocker is a ransomware malware developed for educational purposes.
 
 - Uses RSA 2048 bit encryption
-- Each file is encrypted with pseudo random generated AES key
+- Each file is encrypted with AES
 - Anti debugging/sandboxie feature
 - C&C communication, webpanel included
 - .NET framework 3.5 required on target machine
