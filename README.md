@@ -6,7 +6,6 @@ Vxlocker is a ransomware malware developed for educational purposes.
 - Anti debugging/sandboxie feature
 - C&C communication, webpanel included
 - .NET framework 3.5 required on target machine
-- Unique mutex
 
 
 ## File extensions supported list
